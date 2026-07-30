@@ -1,0 +1,2 @@
+[STDERR] cat: /home/cwadmin/Tompanda/MUSE/data/WN18RR/relation2text.txt: 没有那个文件或目录
+
