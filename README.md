@@ -1,4 +1,4 @@
-# SEMKR: Semantic-Enhanced Knowledge Graph Reasoning
+# SEMKR: Joint Learning of Semantic and Topological Representations for Knowledge Graph Completion
 
 This repository contains the implementation of SEMKR, a model designed for Knowledge Graph Completion (KGC) with semantic-enhanced graph reasoning.
 
