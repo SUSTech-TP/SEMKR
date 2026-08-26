@@ -1,0 +1,7 @@
+# Runtime dependencies for the publicly released EDRL feature-preparation pipeline.
+# The end-to-end main reasoning pipeline has additional unreleased local modules;
+# see docs/REPRODUCIBILITY.md before attempting a full reproduction.
+numpy>=1.21
+torch>=1.12
+transformers>=4.20
+rank-bm25>=0.2.2

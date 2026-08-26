@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use SEMKR, please cite the associated paper."
+title: "SEMKR"
+type: software
+license: "MIT"
+repository-code: "https://github.com/SUSTech-TP/SEMKR"
+authors:
+  - family-names: "Liu"
+    given-names: "Pengjie"
+  - family-names: "Zhang"
+    given-names: "Wang"
+  - family-names: "Ding"
+    given-names: "Yulong"
+  - family-names: "Jiang"
+    given-names: "Jie"
+  - family-names: "Yang"
+    given-names: "Shuang-Hua"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Liu"
+      given-names: "Pengjie"
+    - family-names: "Zhang"
+      given-names: "Wang"
+    - family-names: "Ding"
+      given-names: "Yulong"
+    - family-names: "Jiang"
+      given-names: "Jie"
+    - family-names: "Yang"
+      given-names: "Shuang-Hua"
+  title: "SEMKR: Joint Learning of Semantic and Topological Representations for Knowledge Graph Completion"
+  journal: "Neurocomputing"
+  volume: 653
+  article-number: 130909
+  year: 2025
+  doi: "10.1016/j.neucom.2025.130909"
+  url: "https://doi.org/10.1016/j.neucom.2025.130909"
